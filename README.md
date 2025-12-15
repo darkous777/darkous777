@@ -4,8 +4,6 @@ Développeur full-stack passionné par la création d'applications web et de sol
 
 ## Compétences
 
-### Frameworks & Bibliothèques
-
 
 ### Langages de Programmation
 
